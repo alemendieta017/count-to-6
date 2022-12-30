@@ -19,6 +19,7 @@
     "lib/"
   ],
   "dependencies": {
+    "prettier": "^2.8.1",
     "q": "^1.1.2",
     "rimraf": "^2.2.8",
     "traceur": "0.0.84",
